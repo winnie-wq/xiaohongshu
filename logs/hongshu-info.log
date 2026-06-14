@@ -100,3 +100,11 @@
 23:30:37.756 [http-nio-8080-exec-67] INFO  c.h.w.a.UserLoginInterceptor - [preHandle,40] - accessToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzgxNDQwNzI4LCJleHAiOjE3ODE1MjcxMjgsInVzZXJJZCI6IjI5In0.CE9S19_1VKV8i1A6tPeI3V6OcWRKPcumFBZ346RoSAo,29
 23:30:39.700 [http-nio-8080-exec-69] INFO  c.h.w.a.UserLoginInterceptor - [preHandle,40] - accessToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzgxNDQwNzI4LCJleHAiOjE3ODE1MjcxMjgsInVzZXJJZCI6IjI5In0.CE9S19_1VKV8i1A6tPeI3V6OcWRKPcumFBZ346RoSAo,29
 23:30:39.701 [http-nio-8080-exec-70] INFO  c.h.w.a.UserLoginInterceptor - [preHandle,40] - accessToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNzgxNDQwNzI4LCJleHAiOjE3ODE1MjcxMjgsInVzZXJJZCI6IjI5In0.CE9S19_1VKV8i1A6tPeI3V6OcWRKPcumFBZ346RoSAo,29
+23:54:56.125 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+23:54:56.245 [SpringApplicationShutdownHook] INFO  c.h.w.w.WebSocketServer - [onClose,78] - 29断开webSocket连接！当前人数为=0
+23:54:56.350 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+23:54:56.350 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+23:54:56.351 [SpringApplicationShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+23:54:56.354 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,29] - ====关闭后台任务任务线程池====
+23:54:56.366 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:54:56.373 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
